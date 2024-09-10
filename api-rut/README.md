@@ -1,2 +1,2 @@
-# Api-Rut
-Creador Felipe Castro
+# API RUT 🪪
+-Autor: Felipe Castro
