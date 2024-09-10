@@ -1,2 +1,2 @@
-# API RUT 🪪
--Autor: Felipe Castro
+# 🪪 Api rut 🪪
+**Autor:** Felipe Castro
