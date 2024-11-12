@@ -1,0 +1,48 @@
+.asignatura {
+  padding: 8px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  text-align: center;
+  transition: border-color 0.3s, background-color 0.3s;
+}
+
+.asignatura.anterior {
+  background-color: orange;
+}
+
+.asignatura.actual {
+  background-color: lightblue;
+}
+
+.asignatura.siguiente {
+  background-color: lightgreen;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.tabla-curricular {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.tabla-curricular td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.contenedor-asignaturas {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.etiqueta-semestre {
+  background-color: #f0f0f0;
+  color: black;
+  font-weight: bold;
+  padding: 10px;
+}
